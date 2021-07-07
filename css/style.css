@@ -1,0 +1,18 @@
+hi {
+    color: aqua;
+    text-align: center;
+}
+
+h2 {
+    color: blanchedalmond;
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+ul {
+    line-height: 40px;
+}
